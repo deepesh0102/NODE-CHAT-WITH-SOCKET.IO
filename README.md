@@ -5,13 +5,13 @@ THIS APPLICATION IS DEVELOPED BY USING NODE.JS SOCKET.IO AND Vue.JS
 * https://nodejs.org/
 
 
-**2. Install Express Module in (nodechat folder) **
+**2. Install Express Module in (nodechat folder)**
 * https://www.npmjs.com/package/express  
 Installation is done using the npm install command:  
 __npm install --save express__
 
 
-**3. Install socket.io Module for server side in (nodechat folder) **
+**3. Install socket.io Module for server side in (nodechat folder)**
 * https://www.npmjs.com/package/express  
 Installation is done using the npm install command:  
 __npm install --save socket.io__
